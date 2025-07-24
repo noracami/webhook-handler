@@ -31,7 +31,7 @@ env.bak/
 venv.bak/
 
 # uv
-uv.lock
+# uv.lock should be committed for reproducible builds
 
 # IDE
 .vscode/
